@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "arduino"
+		},
+		{
+			"path": "docs"
+		}
+	],
+	"settings": {
+		"cquery.cacheDirectory": "${workspaceFolder}/.vscode/cquery_cached_index/"
+	}
+}

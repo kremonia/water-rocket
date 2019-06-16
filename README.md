@@ -1,2 +1,8 @@
-# water-rocket
-Arduino based software for small water rocket.
+# Water Rocketry Project
+
+Arduino based avionics for small water rocket.
+
+## Features
+
+## Installation
+
